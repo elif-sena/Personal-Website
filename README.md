@@ -1,6 +1,6 @@
-# Elif Sena Harman - Personal Website
+# Elif Sena Harman - Personal Website for Web Programming Homework
 
-Bu proje Elif Sena Harman için oluşturulmuş bir kişisel web sitesidir ve bu site hakkında bilgilerini, iletişim bilgileri ve çizimleri içermektedir.
+Bu proje, Karadeniz Teknik Üniversitesi Web Programlama dersi için Elif Sena Harman tarafından oluşturulmuş bir kişisel web sitesidir ve bu site kişisel hakkında bilgilerini, iletişim bilgileri ve çizimleri içermektedir.
 
 ## Kullanılan Etiketler
 
