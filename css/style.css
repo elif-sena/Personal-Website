@@ -63,13 +63,15 @@ footer p {
 }
 
 #p1-section-index {
-    font-size: x-large;
-    font-family: sans-serif;
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 #p2-section-index {
+    max-width: 600px;
+    margin: 0 auto 20px auto;
     font-size: larger;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 #section-about_me {
